@@ -18,8 +18,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 📽 I'm Currently working on Generative AI projects.
-- 🙋‍♂️ Ask me about Deep Learning, Machine Learning, Statistics these are my jam! Feel free to reach out and discuss these topics..
+- 📽 I'm Currently working as an Associate NLP Engineer.
+- 🙋‍♂️ Ask me about Deep Learning, Machine Learning, Natural language processing these are my jam! Feel free to reach out and discuss these topics..
 - ❤ Experienced in databases, version control systems like Git and collaboration through GitHub, fast API, web scraping and data extraction techniques.
 - 💻 Visit my ([My Portfolio](https://myportfolio-five-tau.vercel.app/)) for more details about me.
 
@@ -30,20 +30,6 @@
 </p>
 <!-- <br /> -->
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zulqar Nain-Shah&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
-
-<p align="center">
-    <a href="https://github.com/Zulqar Nain-Shah?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Zulqar Nain-Shah&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
-    </a>
-    <a href="https://github.com/Zulqar Nain-Shah?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Zulqar Nain-Shah&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
-    </a>
-  </p>
 
 ---
 
