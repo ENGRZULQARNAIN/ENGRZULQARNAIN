@@ -1,5 +1,5 @@
 <!--Banner12388774567891586077805711-->
-![Zulqar Nain Banner Image](./banner.png)
+![Zulqar Nain Banner Image](./banner.jpg)
 
 <!--Night Owl image-->
 <div>
